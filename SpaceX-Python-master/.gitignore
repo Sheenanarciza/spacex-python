@@ -26,4 +26,4 @@ src/spacexpython/test.py
 #build 1. when yoou have a lot of build files by python you will get a dist folder. 
 #dist
 
-src/spacexpython/test.py
+#src/spacexpython/test.py
