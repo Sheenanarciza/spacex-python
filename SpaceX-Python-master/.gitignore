@@ -11,3 +11,19 @@ build
 dist
 
 src/spacexpython/test.py
+
+#--------------
+
+#*.pyc
+
+#.installed.cfg
+#bin
+#develop-eggs
+
+#*.egg-info
+
+#tmp
+#build 1. when yoou have a lot of build files by python you will get a dist folder. 
+#dist
+
+src/spacexpython/test.py
