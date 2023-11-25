@@ -17,3 +17,9 @@ To make a release,
   4) Upload to PyPI: 'python setup.py sdist register upload'
   5) Increase version in setup.py (for next release)
 
+
+#to deploy software - use bootstrap or build out then you use
+#1. hacking.txt
+#2. bootstrap.py
+#3. buildout.cfg
+
