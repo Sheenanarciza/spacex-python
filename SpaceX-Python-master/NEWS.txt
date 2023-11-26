@@ -21,3 +21,5 @@ News
 
 * Example news entry for a released version
 
+
+#this file you have to edit the contents each time you add a new version
