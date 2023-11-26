@@ -1,2 +1,4 @@
 include README.rst
 include NEWS.txt
+
+#this file deals with the buildout or bootstrap configuration
