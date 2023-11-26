@@ -2,3 +2,4 @@ include README.rst
 include NEWS.txt
 
 #this file deals with the buildout or bootstrap configuration
+#for this package  we will try to get this package up online with name
