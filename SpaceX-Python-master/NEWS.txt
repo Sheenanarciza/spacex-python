@@ -23,3 +23,5 @@ News
 
 
 #this file you have to edit the contents each time you add a new version
+#If you add some new code inside your package and you change to version 2. bug fixes etc
+# you tell the current status of your software and overhaul you can basically look at the #past as wlel
